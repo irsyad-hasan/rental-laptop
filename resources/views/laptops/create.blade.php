@@ -83,7 +83,7 @@
             Harga Harian
         </label>
 
-        <input type="number"
+        <input type="text"
                 name="harga_harian"
                 class="form-control"
                 value="{{ old('harga_harian') }}">
